@@ -14,14 +14,15 @@ This project implements a neural network to classify handwritten digits using th
 
 Ensure you have Python 3 installed. Install the required libraries:
 
-pip install numpy torch pandas matplotlib
+'pip install numpy torch pandas matplotlib'
 
 ## Usage
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the main script: python test.py
-4. The script will load the trained model and perform digit classification on the MNIST test set.
+3. Run the main script:
+   'python test.py'
+5. The script will load the trained model and perform digit classification on the MNIST test set.
 
 ## Data
 
