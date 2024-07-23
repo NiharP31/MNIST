@@ -12,7 +12,9 @@ This project implements a neural network to classify handwritten digits using th
 
 ## Installation
 
-Ensure you have Python 3 installed. Install the required libraries: pip install numpy torch pandas matplotlib
+Ensure you have Python 3 installed. Install the required libraries:
+
+pip install numpy torch pandas matplotlib
 
 ## Usage
 
